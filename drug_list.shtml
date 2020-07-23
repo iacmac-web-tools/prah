@@ -2,9 +2,9 @@
 <HTML>
 <HEAD>
 <META http-equiv="Content-Type" content="text/html; charset=windows-1251">
-<TITLE>Алфавитный указатель лекарственных средств</TITLE>
-<META name="description" content="Алфавитный указатель антибактериальных лекарственных средств">
-<META name="keywords" content="антимикробная терапия, антибактериальная терапия, антибиотики, антибактериальные средства, непатентованные наименования, торговые названия, генерические названия">
+<TITLE>РђР»С„Р°РІРёС‚РЅС‹Р№ СѓРєР°Р·Р°С‚РµР»СЊ Р»РµРєР°СЂСЃС‚РІРµРЅРЅС‹С… СЃСЂРµРґСЃС‚РІ</TITLE>
+<META name="description" content="РђР»С„Р°РІРёС‚РЅС‹Р№ СѓРєР°Р·Р°С‚РµР»СЊ Р°РЅС‚РёР±Р°РєС‚РµСЂРёР°Р»СЊРЅС‹С… Р»РµРєР°СЂСЃС‚РІРµРЅРЅС‹С… СЃСЂРµРґСЃС‚РІ">
+<META name="keywords" content="Р°РЅС‚РёРјРёРєСЂРѕР±РЅР°СЏ С‚РµСЂР°РїРёСЏ, Р°РЅС‚РёР±Р°РєС‚РµСЂРёР°Р»СЊРЅР°СЏ С‚РµСЂР°РїРёСЏ, Р°РЅС‚РёР±РёРѕС‚РёРєРё, Р°РЅС‚РёР±Р°РєС‚РµСЂРёР°Р»СЊРЅС‹Рµ СЃСЂРµРґСЃС‚РІР°, РЅРµРїР°С‚РµРЅС‚РѕРІР°РЅРЅС‹Рµ РЅР°РёРјРµРЅРѕРІР°РЅРёСЏ, С‚РѕСЂРіРѕРІС‹Рµ РЅР°Р·РІР°РЅРёСЏ, РіРµРЅРµСЂРёС‡РµСЃРєРёРµ РЅР°Р·РІР°РЅРёСЏ">
 <META NAME="robots" CONTENT="INDEX,FOLLOW">
 <META NAME="resource-type" CONTENT="document">
 <META NAME="author" CONTENT="ANTIBIOTIC.ru">
@@ -57,7 +57,7 @@ TD.bc {font-size:16pt;}
 															<div align="right" valign=bottom>
 																<table cellspacing="0" cellpadding="0" border="0">
 																	<tr>
-																		<td class="text_avt" valign="top" >Под редакцией:</td>
+																		<td class="text_avt" valign="top" >РџРѕРґ СЂРµРґР°РєС†РёРµР№:</td>
 																		<td class="text_avt" valign="top" width="53">&nbsp;</td>
 																	</tr>
 																	<tr>
@@ -65,15 +65,15 @@ TD.bc {font-size:16pt;}
 																		<td class="text_avt" valign="top" width="53">&nbsp;</td>
 																	</tr>
 																	<tr>
-																		<td class="text_avt" valign="top"> Л.С. Страчунского</td>
+																		<td class="text_avt" valign="top"> Р›.РЎ. РЎС‚СЂР°С‡СѓРЅСЃРєРѕРіРѕ</td>
 																		<td class="text_avt" valign="top" width="53">&nbsp;</td>
 																	</tr>
 																	<tr>
-																		<td class="text_avt" valign="top">Ю.Б. Белоусова</td>
+																		<td class="text_avt" valign="top">Р®.Р‘. Р‘РµР»РѕСѓСЃРѕРІР°</td>
 																		<td class="text_avt" valign="top" width="53">&nbsp;</td>
 																	</tr>
 																	<tr>
-																		<td class="text_avt" valign="top">С.Н. Козлова </td>
+																		<td class="text_avt" valign="top">РЎ.Рќ. РљРѕР·Р»РѕРІР° </td>
 																		<td class="text_avt" valign="top" width="53">&nbsp;</td>
 																	</tr>
 																</table>
@@ -82,12 +82,12 @@ TD.bc {font-size:16pt;}
 													</tr>
 													<tr>
 														<td width="375" height=30 class="text_ruk">
-                        ПРАКТИЧЕСКОЕ РУКОВОДСТВО
+                        РџР РђРљРўРР§Р•РЎРљРћР• Р РЈРљРћР’РћР”РЎРўР’Рћ
 </td>
 													</tr>
 													<tr>
 														<td width="375" class="text_ter"> 
-                      по антиинфекционной  химиотерапии
+                      РїРѕ Р°РЅС‚РёРёРЅС„РµРєС†РёРѕРЅРЅРѕР№  С…РёРјРёРѕС‚РµСЂР°РїРёРё
 </td>
 													</tr>
 													<tr>
@@ -131,7 +131,7 @@ TD.bc {font-size:16pt;}
 <INPUT type="hidden" name="newwindow" value="1">
 <INPUT type="hidden" name="ie" value="windows-1251">
 <TABLE border="0" cellpadding="0" cellspacing="0">
-<TR><TD style="vertical-align:middle;color:#FFFFFF">Поиск по сайту:</TD><TD><INPUT name="q" type="text" size="30"maxlength="150" title="Введите слова для поиска и нажмите Enter"><INPUT name="sa" type="submit" value="Искать"></TD></TR>
+<TR><TD style="vertical-align:middle;color:#FFFFFF">РџРѕРёСЃРє РїРѕ СЃР°Р№С‚Сѓ:</TD><TD><INPUT name="q" type="text" size="30"maxlength="150" title="Р’РІРµРґРёС‚Рµ СЃР»РѕРІР° РґР»СЏ РїРѕРёСЃРєР° Рё РЅР°Р¶РјРёС‚Рµ Enter"><INPUT name="sa" type="submit" value="РСЃРєР°С‚СЊ"></TD></TR>
 </TABLE></FORM>
 </TD></TR>
 </TABLE></DIV>
@@ -142,46 +142,46 @@ TD.bc {font-size:16pt;}
 
 
 <DIV  class=mm      style="width: 130px; left: 205px; top: 0px; height: 24px">
-<a href="index.shtml" class="text_an" >Содержание</a>
+<a href="index.shtml" class="text_an" >РЎРѕРґРµСЂР¶Р°РЅРёРµ</a>
   </DIV> 
 
 
 <DIV class=men  ONMOUSEOVER="this.className='men1';"  ONMOUSEOUT="this.className = 'men';" style="width: 170px; left: 20px; top: 153px; height: 24px"> 
-<a href="mq.shtml" class=m > Общие вопросы </a>
-<a href="intro.shtml" class=m >Введение</a>
-<a href="abbr.shtml" class=m >Список сокращений</a> 
- <a href="about.shtml" class=m >Об   авторах и издателях</a>
-  <a href="termin.shtml" class=m >Основные термины и понятия</a>
-  <a href="sinonims.shtml" class=m >Синонимы ЛС</a>   
-  <a href="001-07.shtml" class=m >Механизмы антибиотико-резистентности</a> 
-<a href="007-11.shtml" class=m >Состояние 
-  антибиотико-резистентности в России</a>
- <a href="drug_interactions.shtml" class=m >Лекарственные   взаимодействия</a> 
-<a href="pharmepi.shtml" class=m >Фармакоэпидемиология</a>
+<a href="mq.shtml" class=m > РћР±С‰РёРµ РІРѕРїСЂРѕСЃС‹ </a>
+<a href="intro.shtml" class=m >Р’РІРµРґРµРЅРёРµ</a>
+<a href="abbr.shtml" class=m >РЎРїРёСЃРѕРє СЃРѕРєСЂР°С‰РµРЅРёР№</a> 
+ <a href="about.shtml" class=m >РћР±   Р°РІС‚РѕСЂР°С… Рё РёР·РґР°С‚РµР»СЏС…</a>
+  <a href="termin.shtml" class=m >РћСЃРЅРѕРІРЅС‹Рµ С‚РµСЂРјРёРЅС‹ Рё РїРѕРЅСЏС‚РёСЏ</a>
+  <a href="sinonims.shtml" class=m >РЎРёРЅРѕРЅРёРјС‹ Р›РЎ</a>   
+  <a href="001-07.shtml" class=m >РњРµС…Р°РЅРёР·РјС‹ Р°РЅС‚РёР±РёРѕС‚РёРєРѕ-СЂРµР·РёСЃС‚РµРЅС‚РЅРѕСЃС‚Рё</a> 
+<a href="007-11.shtml" class=m >РЎРѕСЃС‚РѕСЏРЅРёРµ 
+  Р°РЅС‚РёР±РёРѕС‚РёРєРѕ-СЂРµР·РёСЃС‚РµРЅС‚РЅРѕСЃС‚Рё РІ Р РѕСЃСЃРёРё</a>
+ <a href="drug_interactions.shtml" class=m >Р›РµРєР°СЂСЃС‚РІРµРЅРЅС‹Рµ   РІР·Р°РёРјРѕРґРµР№СЃС‚РІРёСЏ</a> 
+<a href="pharmepi.shtml" class=m >Р¤Р°СЂРјР°РєРѕСЌРїРёРґРµРјРёРѕР»РѕРіРёСЏ</a>
 </DIV> 
 
 <DIV class=men2 
 ONMOUSEOVER="this.className='men22';" 
 ONMOUSEOUT="this.className = 'men2';" style="left: 190px; width: 170px; top: 153px; height: 24px" >
-<a href="012.shtml" class=m >Описание препаратов</a> 
-  <a href="012-13.shtml" class=m >Общие особенности</a> <a href="012a.shtml" class=m >Антибактериальные</a>
-<a href="012o.shtml" class=m >Препараты других групп</a>  
-  <a href="065-75.shtml" class=m >Противотуберкулезные</a> <a href="fungi.shtml" class=m >Противогрибковые</a> 
-  <a href="012v.shtml" class=m >Противовирусные</a> <a href="proto.shtml" class=m >Противопротозойные</a>
-  <a href="gel.shtml" class=m >Противогельминтные</a>
+<a href="012.shtml" class=m >РћРїРёСЃР°РЅРёРµ РїСЂРµРїР°СЂР°С‚РѕРІ</a> 
+  <a href="012-13.shtml" class=m >РћР±С‰РёРµ РѕСЃРѕР±РµРЅРЅРѕСЃС‚Рё</a> <a href="012a.shtml" class=m >РђРЅС‚РёР±Р°РєС‚РµСЂРёР°Р»СЊРЅС‹Рµ</a>
+<a href="012o.shtml" class=m >РџСЂРµРїР°СЂР°С‚С‹ РґСЂСѓРіРёС… РіСЂСѓРїРї</a>  
+  <a href="065-75.shtml" class=m >РџСЂРѕС‚РёРІРѕС‚СѓР±РµСЂРєСѓР»РµР·РЅС‹Рµ</a> <a href="fungi.shtml" class=m >РџСЂРѕС‚РёРІРѕРіСЂРёР±РєРѕРІС‹Рµ</a> 
+  <a href="012v.shtml" class=m >РџСЂРѕС‚РёРІРѕРІРёСЂСѓСЃРЅС‹Рµ</a> <a href="proto.shtml" class=m >РџСЂРѕС‚РёРІРѕРїСЂРѕС‚РѕР·РѕР№РЅС‹Рµ</a>
+  <a href="gel.shtml" class=m >РџСЂРѕС‚РёРІРѕРіРµР»СЊРјРёРЅС‚РЅС‹Рµ</a>
 </DIV>
 
 <DIV class=men3 
 ONMOUSEOVER="this.className='men33';" 
 ONMOUSEOUT="this.className = 'men3';" style="width: 170; left: 370px; top: 153px">
-<a href="098-105.shtml" class=m >Выбор препаратов</a> 
-  <a href="localinf.shtml" class=m >Инфекции различной локализации</a>
-  <a href="150-154.shtml" class=m >Туберкулез</a>
-  <a href="ch_fungi.shtml" class=m >Грибковые инфекции</a>
- <a href="ch_viri.shtml" class=m >Вирусные инфекции</a>
-  <a href="aids.shtml" class=m >ВИЧ-инфекция</a>
-   <a href="ch_proto.shtml" class=m >Протозойные инфекции</a>
-    <a href="ch_gel.shtml" class=m >Гельминтозы</a> 
+<a href="098-105.shtml" class=m >Р’С‹Р±РѕСЂ РїСЂРµРїР°СЂР°С‚РѕРІ</a> 
+  <a href="localinf.shtml" class=m >РРЅС„РµРєС†РёРё СЂР°Р·Р»РёС‡РЅРѕР№ Р»РѕРєР°Р»РёР·Р°С†РёРё</a>
+  <a href="150-154.shtml" class=m >РўСѓР±РµСЂРєСѓР»РµР·</a>
+  <a href="ch_fungi.shtml" class=m >Р“СЂРёР±РєРѕРІС‹Рµ РёРЅС„РµРєС†РёРё</a>
+ <a href="ch_viri.shtml" class=m >Р’РёСЂСѓСЃРЅС‹Рµ РёРЅС„РµРєС†РёРё</a>
+  <a href="aids.shtml" class=m >Р’РР§-РёРЅС„РµРєС†РёСЏ</a>
+   <a href="ch_proto.shtml" class=m >РџСЂРѕС‚РѕР·РѕР№РЅС‹Рµ РёРЅС„РµРєС†РёРё</a>
+    <a href="ch_gel.shtml" class=m >Р“РµР»СЊРјРёРЅС‚РѕР·С‹</a> 
 </DIV>
 
 
@@ -189,7 +189,7 @@ ONMOUSEOUT="this.className = 'men3';" style="width: 170; left: 370px; top: 153px
 <DIV class=men4 
 ONMOUSEOVER="this.className='men44';" 
 ONMOUSEOUT="this.className = 'men4';" style="width: 170; left: 540px; top: 153px"> 
-<a href="osob_prim.shtml" class=m >Особенности применения </a>
+<a href="osob_prim.shtml" class=m >РћСЃРѕР±РµРЅРЅРѕСЃС‚Рё РїСЂРёРјРµРЅРµРЅРёСЏ </a>
  </DIV>
 
 
@@ -198,348 +198,348 @@ ONMOUSEOUT="this.className = 'men4';" style="width: 170; left: 540px; top: 153px
 <DIV class=men5 
 ONMOUSEOVER="this.className='men55';" 
 ONMOUSEOUT="this.className = 'men5';" style="width: 170; left: 720px; top: 153px"> 
-<a href="list.shtml" class=m >Предметный 
-  указатель</a> <a href="drug_list.shtml" class=m >Лекарственные средства </a> 
-  <a href="dis_list.shtml" class=m >Заболевания</a> </DIV>
+<a href="list.shtml" class=m >РџСЂРµРґРјРµС‚РЅС‹Р№ 
+  СѓРєР°Р·Р°С‚РµР»СЊ</a> <a href="drug_list.shtml" class=m >Р›РµРєР°СЂСЃС‚РІРµРЅРЅС‹Рµ СЃСЂРµРґСЃС‚РІР° </a> 
+  <a href="dis_list.shtml" class=m >Р—Р°Р±РѕР»РµРІР°РЅРёСЏ</a> </DIV>
   
   <table width="90%" border="0" cellspacing="0" cellpadding="0" align="center" >
   <tr> 
     <td   bgcolor=white class="f15" valign=top> 
 
 
-<H1>Приложение 2: Предметный указатель</H1>
+<H1>РџСЂРёР»РѕР¶РµРЅРёРµ 2: РџСЂРµРґРјРµС‚РЅС‹Р№ СѓРєР°Р·Р°С‚РµР»СЊ</H1>
 
-<h2>Лекарственные средства</h2>
+<h2>Р›РµРєР°СЂСЃС‚РІРµРЅРЅС‹Рµ СЃСЂРµРґСЃС‚РІР°</h2>
 
-<p>Указатель содержит расположенные в алфавитном порядке наименования антиинфекционных химиопрепаратов, включенных в настоящее издание. При нажатии на ссылку откроется глава пособия, в которой наиболее полно изложены характеристики данного химиопрепарата или группы ЛС, к которой он принадлежит.</p>
+<p>РЈРєР°Р·Р°С‚РµР»СЊ СЃРѕРґРµСЂР¶РёС‚ СЂР°СЃРїРѕР»РѕР¶РµРЅРЅС‹Рµ РІ Р°Р»С„Р°РІРёС‚РЅРѕРј РїРѕСЂСЏРґРєРµ РЅР°РёРјРµРЅРѕРІР°РЅРёСЏ Р°РЅС‚РёРёРЅС„РµРєС†РёРѕРЅРЅС‹С… С…РёРјРёРѕРїСЂРµРїР°СЂР°С‚РѕРІ, РІРєР»СЋС‡РµРЅРЅС‹С… РІ РЅР°СЃС‚РѕСЏС‰РµРµ РёР·РґР°РЅРёРµ. РџСЂРё РЅР°Р¶Р°С‚РёРё РЅР° СЃСЃС‹Р»РєСѓ РѕС‚РєСЂРѕРµС‚СЃСЏ РіР»Р°РІР° РїРѕСЃРѕР±РёСЏ, РІ РєРѕС‚РѕСЂРѕР№ РЅР°РёР±РѕР»РµРµ РїРѕР»РЅРѕ РёР·Р»РѕР¶РµРЅС‹ С…Р°СЂР°РєС‚РµСЂРёСЃС‚РёРєРё РґР°РЅРЅРѕРіРѕ С…РёРјРёРѕРїСЂРµРїР°СЂР°С‚Р° РёР»Рё РіСЂСѓРїРїС‹ Р›РЎ, Рє РєРѕС‚РѕСЂРѕР№ РѕРЅ РїСЂРёРЅР°РґР»РµР¶РёС‚.</p>
 
-<p class="c"><a href="#1">А</a> | <a href="#2">Б</a> | <a href="#3">В</a> | <a href="#4">Г</a> | <a href="#5">Д</a> | <a href="#6">З</a> | <a href="#7">И</a> | <a href="#8">К</a> | <a href="#9">Л</a> | <a href="#10">М</a> | <a href="#11">Н</a> | <a href="#12">О</a> | <a href="#13">П</a> | <a href="#14">Р</a> | <a href="#15">С</a> | <a href="#16">Т</a> | <a href="#17">Ф</a> | <a href="#18">Х</a> | <a href="#19">Ц</a> | <a href="#20">Э</a></p>
+<p class="c"><a href="#1">Рђ</a> | <a href="#2">Р‘</a> | <a href="#3">Р’</a> | <a href="#4">Р“</a> | <a href="#5">Р”</a> | <a href="#6">Р—</a> | <a href="#7">Р</a> | <a href="#8">Рљ</a> | <a href="#9">Р›</a> | <a href="#10">Рњ</a> | <a href="#11">Рќ</a> | <a href="#12">Рћ</a> | <a href="#13">Рџ</a> | <a href="#14">Р </a> | <a href="#15">РЎ</a> | <a href="#16">Рў</a> | <a href="#17">Р¤</a> | <a href="#18">РҐ</a> | <a href="#19">Р¦</a> | <a href="#20">Р­</a></p>
 
 <br>
 <TABLE width="80%" border="1" cellspacing="1" cellpadding="5" align="center">
 <TR>
-  <TD class="bc"><a name="1"></a><b>А</b></TD>
+  <TD class="bc"><a name="1"></a><b>Рђ</b></TD>
 </TR>
 <TR>
   <TD>
-    <a href="retroviri.shtml#nucleosides">Абакавир</a><br>
-    <a href="042-47.shtml">Азитромиин</a><br>
-    <a href="013-22.shtml#ureidopen">Азлоциллин</a><br>
-    <a href="032-33.shtml">Азтреонам</a><br>
-    <a href="gel.shtml#benzimidazol">Албендазол</a><br>
-    <a href="grippe.shtml#m2">Амантадин</a><br>
-    <a href="033-37.shtml">Амикацин</a><br>
-    <a href="013-22.shtml#aminopen">Амоксициллин</a><br>
-    <a href="013-22.shtml#ing_resist">Амоксициллин/клавуланат</a><br>
-    <a href="013-22.shtml#aminopen">Ампициллин</a><br>
-    <a href="013-22.shtml#ing_resist">Ампициллин/сульбактам</a><br>
-    <a href="retroviri.shtml#protease">Ампренавир</a><br>
-    <a href="fungi.shtml#poliens">Амфотерицин В</a><br>
-    <a href="fungi.shtml#poliens">Амфотерицин В липосомальный</a><br>
-    <a href="grippe.shtml#arbidol">Арбидол</a><br>
-    <a href="proto.shtml#malaria">Артеметер</a><br>
-    <a href="proto.shtml#malaria">Артемизинин</a><br>
-    <a href="proto.shtml#malaria">Артесунат</a><br>
-    <a href="herpes.shtml#nucleosides">Ацикловир</a><br>
+    <a href="retroviri.shtml#nucleosides">РђР±Р°РєР°РІРёСЂ</a><br>
+    <a href="042-47.shtml">РђР·РёС‚СЂРѕРјРёРёРЅ</a><br>
+    <a href="013-22.shtml#ureidopen">РђР·Р»РѕС†РёР»Р»РёРЅ</a><br>
+    <a href="032-33.shtml">РђР·С‚СЂРµРѕРЅР°Рј</a><br>
+    <a href="gel.shtml#benzimidazol">РђР»Р±РµРЅРґР°Р·РѕР»</a><br>
+    <a href="grippe.shtml#m2">РђРјР°РЅС‚Р°РґРёРЅ</a><br>
+    <a href="033-37.shtml">РђРјРёРєР°С†РёРЅ</a><br>
+    <a href="013-22.shtml#aminopen">РђРјРѕРєСЃРёС†РёР»Р»РёРЅ</a><br>
+    <a href="013-22.shtml#ing_resist">РђРјРѕРєСЃРёС†РёР»Р»РёРЅ/РєР»Р°РІСѓР»Р°РЅР°С‚</a><br>
+    <a href="013-22.shtml#aminopen">РђРјРїРёС†РёР»Р»РёРЅ</a><br>
+    <a href="013-22.shtml#ing_resist">РђРјРїРёС†РёР»Р»РёРЅ/СЃСѓР»СЊР±Р°РєС‚Р°Рј</a><br>
+    <a href="retroviri.shtml#protease">РђРјРїСЂРµРЅР°РІРёСЂ</a><br>
+    <a href="fungi.shtml#poliens">РђРјС„РѕС‚РµСЂРёС†РёРЅ Р’</a><br>
+    <a href="fungi.shtml#poliens">РђРјС„РѕС‚РµСЂРёС†РёРЅ Р’ Р»РёРїРѕСЃРѕРјР°Р»СЊРЅС‹Р№</a><br>
+    <a href="grippe.shtml#arbidol">РђСЂР±РёРґРѕР»</a><br>
+    <a href="proto.shtml#malaria">РђСЂС‚РµРјРµС‚РµСЂ</a><br>
+    <a href="proto.shtml#malaria">РђСЂС‚РµРјРёР·РёРЅРёРЅ</a><br>
+    <a href="proto.shtml#malaria">РђСЂС‚РµСЃСѓРЅР°С‚</a><br>
+    <a href="herpes.shtml#nucleosides">РђС†РёРєР»РѕРІРёСЂ</a><br>
   </TD>
 </TR>
 <TR>
-  <TD class="bc"><a name="2"></a><b>Б</b></TD>
+  <TD class="bc"><a name="2"></a><b>Р‘</b></TD>
 </TR>
 <TR>
   <TD>
-    <a href="013-22.shtml">Бензатин бензилпенициллин</a><br>
-    <a href="013-22.shtml">Бензилпенициллин прокаин</a><br>
-    <a href="013-22.shtml">Бензилпенициллин</a><br>
-    <a href="fungi.shtml#azols">Бифоназол</a><br>
+    <a href="013-22.shtml">Р‘РµРЅР·Р°С‚РёРЅ Р±РµРЅР·РёР»РїРµРЅРёС†РёР»Р»РёРЅ</a><br>
+    <a href="013-22.shtml">Р‘РµРЅР·РёР»РїРµРЅРёС†РёР»Р»РёРЅ РїСЂРѕРєР°РёРЅ</a><br>
+    <a href="013-22.shtml">Р‘РµРЅР·РёР»РїРµРЅРёС†РёР»Р»РёРЅ</a><br>
+    <a href="fungi.shtml#azols">Р‘РёС„РѕРЅР°Р·РѕР»</a><br>
   </TD>
 </TR>
 <TR>
-  <TD class="bc"><a name="3"></a><b>В</b></TD>
+  <TD class="bc"><a name="3"></a><b>Р’</b></TD>
 </TR>
 <TR>
   <TD>
-    <a href="herpes.shtml#nucleosides">Валацикловир</a><br>
-    <a href="cytomeg.shtml">Валганцикловир</a><br>
-    <a href="052-54.shtml">Ванкомицин</a><br>
+    <a href="herpes.shtml#nucleosides">Р’Р°Р»Р°С†РёРєР»РѕРІРёСЂ</a><br>
+    <a href="cytomeg.shtml">Р’Р°Р»РіР°РЅС†РёРєР»РѕРІРёСЂ</a><br>
+    <a href="052-54.shtml">Р’Р°РЅРєРѕРјРёС†РёРЅ</a><br>
   </TD>
 </TR>
 <TR>
-  <TD class="bc"><a name="4"></a><b>Г</b></TD>
+  <TD class="bc"><a name="4"></a><b>Р“</b></TD>
 </TR>
 <TR>
   <TD>
-    <a href="proto.shtml#malaria">Галофантрин</a><br>
-    <a href="cytomeg.shtml">Ганцикловир</a><br>
-    <a href="033-37.shtml">Гентамицин</a><br>
-    <a href="fungi.shtml#other">Гризеофульвин</a><br>
+    <a href="proto.shtml#malaria">Р“Р°Р»РѕС„Р°РЅС‚СЂРёРЅ</a><br>
+    <a href="cytomeg.shtml">Р“Р°РЅС†РёРєР»РѕРІРёСЂ</a><br>
+    <a href="033-37.shtml">Р“РµРЅС‚Р°РјРёС†РёРЅ</a><br>
+    <a href="fungi.shtml#other">Р“СЂРёР·РµРѕС„СѓР»СЊРІРёРЅ</a><br>
   </TD>
 </TR>
 <TR>
-  <TD class="bc"><a name="5"></a><b>Д</b></TD>
+  <TD class="bc"><a name="5"></a><b>Р”</b></TD>
 </TR>
 <TR>
   <TD>
-    <a href="proto.shtml#other">Дегидроэметин</a><br>
-    <a href="042-47.shtml">Джозамицин</a><br>
-    <a href="retroviri.shtml#nucleosides">Диданозин</a><br>
-    <a href="proto.shtml#other">Дилоксанида фуроат</a><br>
-    <a href="076-77.shtml">Диоксидин</a><br>
-    <a href="gel.shtml#other">Диэтилкарбамазин</a><br>
-    <a href="047-49.shtml">Доксициклин</a><br>
+    <a href="proto.shtml#other">Р”РµРіРёРґСЂРѕСЌРјРµС‚РёРЅ</a><br>
+    <a href="042-47.shtml">Р”Р¶РѕР·Р°РјРёС†РёРЅ</a><br>
+    <a href="retroviri.shtml#nucleosides">Р”РёРґР°РЅРѕР·РёРЅ</a><br>
+    <a href="proto.shtml#other">Р”РёР»РѕРєСЃР°РЅРёРґР° С„СѓСЂРѕР°С‚</a><br>
+    <a href="076-77.shtml">Р”РёРѕРєСЃРёРґРёРЅ</a><br>
+    <a href="gel.shtml#other">Р”РёСЌС‚РёР»РєР°СЂР±Р°РјР°Р·РёРЅ</a><br>
+    <a href="047-49.shtml">Р”РѕРєСЃРёС†РёРєР»РёРЅ</a><br>
   </TD>
 </TR>
 <TR>
-  <TD class="bc"><a name="6"></a><b>З</b></TD>
+  <TD class="bc"><a name="6"></a><b>Р—</b></TD>
 </TR>
 <TR>
   <TD>
-    <a href="retroviri.shtml#nucleosides">Зальцитабин</a><br>
-    <a href="grippe.shtml#ing">Занамивир</a><br>
-    <a href="retroviri.shtml#nucleosides">Зидовудин</a><br>
+    <a href="retroviri.shtml#nucleosides">Р—Р°Р»СЊС†РёС‚Р°Р±РёРЅ</a><br>
+    <a href="grippe.shtml#ing">Р—Р°РЅР°РјРёРІРёСЂ</a><br>
+    <a href="retroviri.shtml#nucleosides">Р—РёРґРѕРІСѓРґРёРЅ</a><br>
   </TD>
 </TR>
 <TR>
-  <TD class="bc"><a name="7"></a><b>И</b></TD>
+  <TD class="bc"><a name="7"></a><b>Р</b></TD>
 </TR>
 <TR>
   <TD>
-    <a href="gel.shtml#other">Ивермектин</a><br>
-    <a href="herpes.shtml#idoxuridin">Идоксуридин</a><br>
-    <a href="065-75.shtml#isoniasid">Изониазид</a><br>
-    <a href="030-32.shtml">Имипенем</a><br>
-    <a href="retroviri.shtml#protease">Индинавир</a><br>
-    <a href="brviri.shtml#interferons">Интерферон альфа</a><br>
-    <a href="brviri.shtml#interferons">Интерферон лейкоцитарный человеческий</a><br>
-    <a href="fungi.shtml#azols">Итраконазол</a><br>
-    <a href="retroviri.shtml#nonnucleosides">Ифавиренц</a><br>
+    <a href="gel.shtml#other">РРІРµСЂРјРµРєС‚РёРЅ</a><br>
+    <a href="herpes.shtml#idoxuridin">РРґРѕРєСЃСѓСЂРёРґРёРЅ</a><br>
+    <a href="065-75.shtml#isoniasid">РР·РѕРЅРёР°Р·РёРґ</a><br>
+    <a href="030-32.shtml">РРјРёРїРµРЅРµРј</a><br>
+    <a href="retroviri.shtml#protease">РРЅРґРёРЅР°РІРёСЂ</a><br>
+    <a href="brviri.shtml#interferons">РРЅС‚РµСЂС„РµСЂРѕРЅ Р°Р»СЊС„Р°</a><br>
+    <a href="brviri.shtml#interferons">РРЅС‚РµСЂС„РµСЂРѕРЅ Р»РµР№РєРѕС†РёС‚Р°СЂРЅС‹Р№ С‡РµР»РѕРІРµС‡РµСЃРєРёР№</a><br>
+    <a href="fungi.shtml#azols">РС‚СЂР°РєРѕРЅР°Р·РѕР»</a><br>
+    <a href="retroviri.shtml#nonnucleosides">РС„Р°РІРёСЂРµРЅС†</a><br>
   </TD>
 </TR>
 <TR>
-  <TD class="bc"><a name="8"></a><b>К</b></TD>
+  <TD class="bc"><a name="8"></a><b>Рљ</b></TD>
 </TR>
 <TR>
   <TD>
-    <a href="fungi.shtml#other">Калия йодид</a><br>
-    <a href="033-37.shtml">Канамицин</a><br>
-    <a href="065-75.shtml#capreomicin">Капреомицин</a><br>
-    <a href="013-22.shtml#carboxypen">Карбенициллин</a><br>
-    <a href="fungi.shtml#azols">Кетоконазол</a><br>
-    <a href="042-47.shtml">Кларитромицин</a><br>
-    <a href="050-51.shtml">Клиндамицин</a><br>
-    <a href="fungi.shtml#azols">Клотримазол</a><br>
-    <a href="056-60.shtml#co-trim">Ко-тримоксазол</a><br>
+    <a href="fungi.shtml#other">РљР°Р»РёСЏ Р№РѕРґРёРґ</a><br>
+    <a href="033-37.shtml">РљР°РЅР°РјРёС†РёРЅ</a><br>
+    <a href="065-75.shtml#capreomicin">РљР°РїСЂРµРѕРјРёС†РёРЅ</a><br>
+    <a href="013-22.shtml#carboxypen">РљР°СЂР±РµРЅРёС†РёР»Р»РёРЅ</a><br>
+    <a href="fungi.shtml#azols">РљРµС‚РѕРєРѕРЅР°Р·РѕР»</a><br>
+    <a href="042-47.shtml">РљР»Р°СЂРёС‚СЂРѕРјРёС†РёРЅ</a><br>
+    <a href="050-51.shtml">РљР»РёРЅРґР°РјРёС†РёРЅ</a><br>
+    <a href="fungi.shtml#azols">РљР»РѕС‚СЂРёРјР°Р·РѕР»</a><br>
+    <a href="056-60.shtml#co-trim">РљРѕ-С‚СЂРёРјРѕРєСЃР°Р·РѕР»</a><br>
   </TD>
 </TR>
 <TR>
-  <TD class="bc"><a name="9"></a><b>Л</b></TD>
+  <TD class="bc"><a name="9"></a><b>Р›</b></TD>
 </TR>
 <TR>
   <TD>
-    <a href="brviri.shtml#lamivudin">Ламивудин</a><br>
-    <a href="gel.shtml#benzimidazol">Левамизол</a><br>
-    <a href="fungi.shtml#poliens">Леворин</a><br>
-    <a href="038-42.shtml">Левофлоксацин</a><br>
-    <a href="oxa.shtml">Линезолид</a><br>
-    <a href="050-51.shtml">Линкомицин</a><br>
-    <a href="038-42.shtml">Ломефлоксацин</a><br>
+    <a href="brviri.shtml#lamivudin">Р›Р°РјРёРІСѓРґРёРЅ</a><br>
+    <a href="gel.shtml#benzimidazol">Р›РµРІР°РјРёР·РѕР»</a><br>
+    <a href="fungi.shtml#poliens">Р›РµРІРѕСЂРёРЅ</a><br>
+    <a href="038-42.shtml">Р›РµРІРѕС„Р»РѕРєСЃР°С†РёРЅ</a><br>
+    <a href="oxa.shtml">Р›РёРЅРµР·РѕР»РёРґ</a><br>
+    <a href="050-51.shtml">Р›РёРЅРєРѕРјРёС†РёРЅ</a><br>
+    <a href="038-42.shtml">Р›РѕРјРµС„Р»РѕРєСЃР°С†РёРЅ</a><br>
   </TD>
 </TR>
 <TR>
-  <TD class="bc"><a name="10"></a><b>М</b></TD>
+  <TD class="bc"><a name="10"></a><b>Рњ</b></TD>
 </TR>
 <TR>
   <TD>
-    <a href="gel.shtml#benzimidazol">Мебендазол</a><br>
-    <a href="proto.shtml#other">Меглюмина антимонат</a><br>
-    <a href="030-32.shtml">Меропенем</a><br>
-    <a href="065-75.shtml#gink">Метазид</a><br>
-    <a href="061-62.shtml">Метронидазол</a><br>
-    <a href="proto.shtml#malaria">Мефлохин</a><br>
-    <a href="042-47.shtml">Мидекамицин</a><br>
-    <a href="042-47.shtml">Мидекамицина ацетат</a><br>
-    <a href="fungi.shtml#azols">Миконазол</a><br>
-    <a href="038-42.shtml">Моксифлоксацин</a><br>
-    <a href="mup.shtml">Мупироцин</a><br>
+    <a href="gel.shtml#benzimidazol">РњРµР±РµРЅРґР°Р·РѕР»</a><br>
+    <a href="proto.shtml#other">РњРµРіР»СЋРјРёРЅР° Р°РЅС‚РёРјРѕРЅР°С‚</a><br>
+    <a href="030-32.shtml">РњРµСЂРѕРїРµРЅРµРј</a><br>
+    <a href="065-75.shtml#gink">РњРµС‚Р°Р·РёРґ</a><br>
+    <a href="061-62.shtml">РњРµС‚СЂРѕРЅРёРґР°Р·РѕР»</a><br>
+    <a href="proto.shtml#malaria">РњРµС„Р»РѕС…РёРЅ</a><br>
+    <a href="042-47.shtml">РњРёРґРµРєР°РјРёС†РёРЅ</a><br>
+    <a href="042-47.shtml">РњРёРґРµРєР°РјРёС†РёРЅР° Р°С†РµС‚Р°С‚</a><br>
+    <a href="fungi.shtml#azols">РњРёРєРѕРЅР°Р·РѕР»</a><br>
+    <a href="038-42.shtml">РњРѕРєСЃРёС„Р»РѕРєСЃР°С†РёРЅ</a><br>
+    <a href="mup.shtml">РњСѓРїРёСЂРѕС†РёРЅ</a><br>
   </TD>
 </TR>
 <TR>
-  <TD class="bc"><a name="11"></a><b>Н</b></TD>
+  <TD class="bc"><a name="11"></a><b>Рќ</b></TD>
 </TR>
 <TR>
   <TD>
-    <a href="038-42.shtml">Налидиксовая кислота</a><br>
-    <a href="fungi.shtml#poliens">Натамицин</a><br>
-    <a href="fungi.shtml#allilamins">Нафтифин</a><br>
-    <a href="retroviri.shtml#nonnucleosides">Невирапин</a><br>
-    <a href="retroviri.shtml#protease">Нелфинавир</a><br>
-    <a href="033-37.shtml">Неомицин</a><br>
-    <a href="033-37.shtml">Нетилмицин</a><br>
-    <a href="gel.shtml#other">Никлозамид</a><br>
-    <a href="fungi.shtml#poliens">Нистатин</a><br>
-    <a href="077-78.shtml">Нитроксолин</a><br>
-    <a href="063-64.shtml">Нитрофурантоин</a><br>
-    <a href="063-64.shtml">Нифуроксазид</a><br>
-    <a href="038-42.shtml">Норфлоксацин</a><br>
+    <a href="038-42.shtml">РќР°Р»РёРґРёРєСЃРѕРІР°СЏ РєРёСЃР»РѕС‚Р°</a><br>
+    <a href="fungi.shtml#poliens">РќР°С‚Р°РјРёС†РёРЅ</a><br>
+    <a href="fungi.shtml#allilamins">РќР°С„С‚РёС„РёРЅ</a><br>
+    <a href="retroviri.shtml#nonnucleosides">РќРµРІРёСЂР°РїРёРЅ</a><br>
+    <a href="retroviri.shtml#protease">РќРµР»С„РёРЅР°РІРёСЂ</a><br>
+    <a href="033-37.shtml">РќРµРѕРјРёС†РёРЅ</a><br>
+    <a href="033-37.shtml">РќРµС‚РёР»РјРёС†РёРЅ</a><br>
+    <a href="gel.shtml#other">РќРёРєР»РѕР·Р°РјРёРґ</a><br>
+    <a href="fungi.shtml#poliens">РќРёСЃС‚Р°С‚РёРЅ</a><br>
+    <a href="077-78.shtml">РќРёС‚СЂРѕРєСЃРѕР»РёРЅ</a><br>
+    <a href="063-64.shtml">РќРёС‚СЂРѕС„СѓСЂР°РЅС‚РѕРёРЅ</a><br>
+    <a href="063-64.shtml">РќРёС„СѓСЂРѕРєСЃР°Р·РёРґ</a><br>
+    <a href="038-42.shtml">РќРѕСЂС„Р»РѕРєСЃР°С†РёРЅ</a><br>
   </TD>
 </TR>
 <TR>
-  <TD class="bc"><a name="12"></a><b>О</b></TD>
+  <TD class="bc"><a name="12"></a><b>Рћ</b></TD>
 </TR>
 <TR>
   <TD>
-    <a href="grippe.shtml#ing">Озельтамавир</a><br>
-    <a href="013-22.shtml#oxacillin">Оксациллин</a><br>
-    <a href="fungi.shtml#azols">Оксиконазол</a><br>
-    <a href="038-42.shtml">Оксолиновая кислота</a><br>
-    <a href="065-75.shtml#gink">Опиниазид</a><br>
-    <a href="061-62.shtml">Орнидазол</a><br>
-    <a href="038-42.shtml">Офлоксацин</a><br>
+    <a href="grippe.shtml#ing">РћР·РµР»СЊС‚Р°РјР°РІРёСЂ</a><br>
+    <a href="013-22.shtml#oxacillin">РћРєСЃР°С†РёР»Р»РёРЅ</a><br>
+    <a href="fungi.shtml#azols">РћРєСЃРёРєРѕРЅР°Р·РѕР»</a><br>
+    <a href="038-42.shtml">РћРєСЃРѕР»РёРЅРѕРІР°СЏ РєРёСЃР»РѕС‚Р°</a><br>
+    <a href="065-75.shtml#gink">РћРїРёРЅРёР°Р·РёРґ</a><br>
+    <a href="061-62.shtml">РћСЂРЅРёРґР°Р·РѕР»</a><br>
+    <a href="038-42.shtml">РћС„Р»РѕРєСЃР°С†РёРЅ</a><br>
   </TD>
 </TR>
 <TR>
-  <TD class="bc"><a name="13"></a><b>П</b></TD>
+  <TD class="bc"><a name="13"></a><b>Рџ</b></TD>
 </TR>
 <TR>
   <TD>
-    <a href="065-75.shtml#pask">Парааминосалициловая кислота</a><br>
-    <a href="proto.shtml#other">Паромомицин</a><br>
-    <a href="brviri.shtml#interferons">Пегинтерферон</a><br>
-    <a href="herpes.shtml#nucleosides">Пенцикловир</a><br>
-    <a href="038-42.shtml">Пефлоксацин</a><br>
-    <a href="eyes.shtml#t_2">Пиклоксидин</a><br>
-    <a href="038-42.shtml">Пипемидовая кислота</a><br>
-    <a href="013-22.shtml#ureidopen">Пиперациллин</a><br>
-    <a href="013-22.shtml#ing_resist">Пиперациллин/тазобактам</a><br>
-    <a href="065-75.shtml#pirazinamid">Пиразинамид</a><br>
-    <a href="gel.shtml#other">Пирантела памоат</a><br>
-    <a href="proto.shtml#malaria">Пириметаним</a><br>
-    <a href="proto.shtml#malaria">Пириметаним/сульфадоксин</a><br>
-    <a href="054-55.shtml">Полимиксин В</a><br>
-    <a href="054-55.shtml">Полимиксин М</a><br>
-    <a href="gel.shtml#other">Празиквантел</a><br>
-    <a href="proto.shtml#malaria">Примахин</a><br>
-    <a href="proto.shtml#malaria">Прогуанил</a><br>
-    <a href="065-75.shtml#etionamid">Протионамид</a><br>
+    <a href="065-75.shtml#pask">РџР°СЂР°Р°РјРёРЅРѕСЃР°Р»РёС†РёР»РѕРІР°СЏ РєРёСЃР»РѕС‚Р°</a><br>
+    <a href="proto.shtml#other">РџР°СЂРѕРјРѕРјРёС†РёРЅ</a><br>
+    <a href="brviri.shtml#interferons">РџРµРіРёРЅС‚РµСЂС„РµСЂРѕРЅ</a><br>
+    <a href="herpes.shtml#nucleosides">РџРµРЅС†РёРєР»РѕРІРёСЂ</a><br>
+    <a href="038-42.shtml">РџРµС„Р»РѕРєСЃР°С†РёРЅ</a><br>
+    <a href="eyes.shtml#t_2">РџРёРєР»РѕРєСЃРёРґРёРЅ</a><br>
+    <a href="038-42.shtml">РџРёРїРµРјРёРґРѕРІР°СЏ РєРёСЃР»РѕС‚Р°</a><br>
+    <a href="013-22.shtml#ureidopen">РџРёРїРµСЂР°С†РёР»Р»РёРЅ</a><br>
+    <a href="013-22.shtml#ing_resist">РџРёРїРµСЂР°С†РёР»Р»РёРЅ/С‚Р°Р·РѕР±Р°РєС‚Р°Рј</a><br>
+    <a href="065-75.shtml#pirazinamid">РџРёСЂР°Р·РёРЅР°РјРёРґ</a><br>
+    <a href="gel.shtml#other">РџРёСЂР°РЅС‚РµР»Р° РїР°РјРѕР°С‚</a><br>
+    <a href="proto.shtml#malaria">РџРёСЂРёРјРµС‚Р°РЅРёРј</a><br>
+    <a href="proto.shtml#malaria">РџРёСЂРёРјРµС‚Р°РЅРёРј/СЃСѓР»СЊС„Р°РґРѕРєСЃРёРЅ</a><br>
+    <a href="054-55.shtml">РџРѕР»РёРјРёРєСЃРёРЅ Р’</a><br>
+    <a href="054-55.shtml">РџРѕР»РёРјРёРєСЃРёРЅ Рњ</a><br>
+    <a href="gel.shtml#other">РџСЂР°Р·РёРєРІР°РЅС‚РµР»</a><br>
+    <a href="proto.shtml#malaria">РџСЂРёРјР°С…РёРЅ</a><br>
+    <a href="proto.shtml#malaria">РџСЂРѕРіСѓР°РЅРёР»</a><br>
+    <a href="065-75.shtml#etionamid">РџСЂРѕС‚РёРѕРЅР°РјРёРґ</a><br>
   </TD>
 </TR>
 <TR>
-  <TD class="bc"><a name="14"></a><b>Р</b></TD>
+  <TD class="bc"><a name="14"></a><b>Р </b></TD>
 </TR>
 <TR>
   <TD>
-    <a href="brviri.shtml">Рибавирин</a><br>
-    <a href="grippe.shtml#m2">Римантадин</a><br>
-    <a href="retroviri.shtml#protease">Ритонавир</a><br>
-    <a href="065-75.shtml#rifabutin">Рифабутин</a><br>
-    <a href="065-75.shtml#rifampicin">Рифампицин</a><br>
-    <a href="042-47.shtml">Рокситромицин</a><br>
+    <a href="brviri.shtml">Р РёР±Р°РІРёСЂРёРЅ</a><br>
+    <a href="grippe.shtml#m2">Р РёРјР°РЅС‚Р°РґРёРЅ</a><br>
+    <a href="retroviri.shtml#protease">Р РёС‚РѕРЅР°РІРёСЂ</a><br>
+    <a href="065-75.shtml#rifabutin">Р РёС„Р°Р±СѓС‚РёРЅ</a><br>
+    <a href="065-75.shtml#rifampicin">Р РёС„Р°РјРїРёС†РёРЅ</a><br>
+    <a href="042-47.shtml">Р РѕРєСЃРёС‚СЂРѕРјРёС†РёРЅ</a><br>
   </TD>
 </TR>
 <TR>
-  <TD class="bc"><a name="15"></a><b>С</b></TD>
+  <TD class="bc"><a name="15"></a><b>РЎ</b></TD>
 </TR>
 <TR>
   <TD>
-    <a href="retroviri.shtml#protease">Саквинавир</a><br>
-    <a href="061-62.shtml">Секнидазол</a><br>
-    <a href="038-42.shtml">Спарфлоксацин</a><br>
-    <a href="078-79.shtml">Спектиномицин</a><br>
-    <a href="042-47.shtml">Спирамицин</a><br>
-    <a href="retroviri.shtml#nucleosides">Ставудин</a><br>
-    <a href="033-37.shtml">Стрептомицин</a><br>
-    <a href="013-22.shtml#ing_resist">Сультамициллин</a><br>
-    <a href="056-60.shtml">Сульфадиазин серебра</a><br>
-    <a href="056-60.shtml">Сульфадиазин</a><br>
-    <a href="056-60.shtml">Сульфадиметоксин</a><br>
-    <a href="056-60.shtml">Сульфадимидин</a><br>
-    <a href="proto.shtml#malaria">Сульфадоксин</a><br>
-    <a href="056-60.shtml">Сульфален</a><br>
-    <a href="056-60.shtml#co-trim">Сульфаметоксазол</a><br>
-    <a href="056-60.shtml">Сульфатиазол серебра</a><br>
-    <a href="eyes.shtml#t_2">Сульфацил натрия</a><br>
+    <a href="retroviri.shtml#protease">РЎР°РєРІРёРЅР°РІРёСЂ</a><br>
+    <a href="061-62.shtml">РЎРµРєРЅРёРґР°Р·РѕР»</a><br>
+    <a href="038-42.shtml">РЎРїР°СЂС„Р»РѕРєСЃР°С†РёРЅ</a><br>
+    <a href="078-79.shtml">РЎРїРµРєС‚РёРЅРѕРјРёС†РёРЅ</a><br>
+    <a href="042-47.shtml">РЎРїРёСЂР°РјРёС†РёРЅ</a><br>
+    <a href="retroviri.shtml#nucleosides">РЎС‚Р°РІСѓРґРёРЅ</a><br>
+    <a href="033-37.shtml">РЎС‚СЂРµРїС‚РѕРјРёС†РёРЅ</a><br>
+    <a href="013-22.shtml#ing_resist">РЎСѓР»СЊС‚Р°РјРёС†РёР»Р»РёРЅ</a><br>
+    <a href="056-60.shtml">РЎСѓР»СЊС„Р°РґРёР°Р·РёРЅ СЃРµСЂРµР±СЂР°</a><br>
+    <a href="056-60.shtml">РЎСѓР»СЊС„Р°РґРёР°Р·РёРЅ</a><br>
+    <a href="056-60.shtml">РЎСѓР»СЊС„Р°РґРёРјРµС‚РѕРєСЃРёРЅ</a><br>
+    <a href="056-60.shtml">РЎСѓР»СЊС„Р°РґРёРјРёРґРёРЅ</a><br>
+    <a href="proto.shtml#malaria">РЎСѓР»СЊС„Р°РґРѕРєСЃРёРЅ</a><br>
+    <a href="056-60.shtml">РЎСѓР»СЊС„Р°Р»РµРЅ</a><br>
+    <a href="056-60.shtml#co-trim">РЎСѓР»СЊС„Р°РјРµС‚РѕРєСЃР°Р·РѕР»</a><br>
+    <a href="056-60.shtml">РЎСѓР»СЊС„Р°С‚РёР°Р·РѕР» СЃРµСЂРµР±СЂР°</a><br>
+    <a href="eyes.shtml#t_2">РЎСѓР»СЊС„Р°С†РёР» РЅР°С‚СЂРёСЏ</a><br>
   </TD>
 </TR>
 <TR>
-  <TD class="bc"><a name="16"></a><b>Т</b></TD>
+  <TD class="bc"><a name="16"></a><b>Рў</b></TD>
 </TR>
 <TR>
   <TD>
-    <a href="052-54.shtml">Тейкопланин</a><br>
-    <a href="fungi.shtml#allilamins">Тербинафин</a><br>
-    <a href="061-62.shtml">Тернидазол</a><br>
-    <a href="047-49.shtml">Тетрациклин</a><br>
-    <a href="013-22.shtml#carboxypen">Тикарциллин</a><br>
-    <a href="013-22.shtml#ing_resist">Тикарциллин/клавуланат</a><br>
-    <a href="061-62.shtml">Тинидазол</a><br>
-    <a href="065-75.shtml#tioacetazon">Тиоацетазон</a><br>
-    <a href="033-37.shtml">Тобрамицин</a><br>
-    <a href="056-60.shtml#co-trim">Триметоприм</a><br>
-    <a href="herpes.shtml#tromantadin">Тромантадин</a><br>
+    <a href="052-54.shtml">РўРµР№РєРѕРїР»Р°РЅРёРЅ</a><br>
+    <a href="fungi.shtml#allilamins">РўРµСЂР±РёРЅР°С„РёРЅ</a><br>
+    <a href="061-62.shtml">РўРµСЂРЅРёРґР°Р·РѕР»</a><br>
+    <a href="047-49.shtml">РўРµС‚СЂР°С†РёРєР»РёРЅ</a><br>
+    <a href="013-22.shtml#carboxypen">РўРёРєР°СЂС†РёР»Р»РёРЅ</a><br>
+    <a href="013-22.shtml#ing_resist">РўРёРєР°СЂС†РёР»Р»РёРЅ/РєР»Р°РІСѓР»Р°РЅР°С‚</a><br>
+    <a href="061-62.shtml">РўРёРЅРёРґР°Р·РѕР»</a><br>
+    <a href="065-75.shtml#tioacetazon">РўРёРѕР°С†РµС‚Р°Р·РѕРЅ</a><br>
+    <a href="033-37.shtml">РўРѕР±СЂР°РјРёС†РёРЅ</a><br>
+    <a href="056-60.shtml#co-trim">РўСЂРёРјРµС‚РѕРїСЂРёРј</a><br>
+    <a href="herpes.shtml#tromantadin">РўСЂРѕРјР°РЅС‚Р°РґРёРЅ</a><br>
   </TD>
 </TR>
 <TR>
-  <TD class="bc"><a name="17"></a><b>Ф</b></TD>
+  <TD class="bc"><a name="17"></a><b>Р¤</b></TD>
 </TR>
 <TR>
   <TD>
-    <a href="herpes.shtml#nucleosides">Фамцикловир</a><br>
-    <a href="013-22.shtml">Феноксиметилпенициллин</a><br>
-    <a href="fungi.shtml#azols">Флуконазол</a><br>
-    <a href="cytomeg.shtml">Фоскарнет</a><br>
-    <a href="retroviri.shtml#nucleosides">Фосфазид</a><br>
-    <a href="079-80.shtml">Фосфомицина трометамол</a><br>
-    <a href="080-82.shtml">Фузидиевая кислота</a><br>
-    <a href="063-64.shtml">Фуразидин</a><br>
-    <a href="063-64.shtml">Фуразолидон</a><br>
+    <a href="herpes.shtml#nucleosides">Р¤Р°РјС†РёРєР»РѕРІРёСЂ</a><br>
+    <a href="013-22.shtml">Р¤РµРЅРѕРєСЃРёРјРµС‚РёР»РїРµРЅРёС†РёР»Р»РёРЅ</a><br>
+    <a href="fungi.shtml#azols">Р¤Р»СѓРєРѕРЅР°Р·РѕР»</a><br>
+    <a href="cytomeg.shtml">Р¤РѕСЃРєР°СЂРЅРµС‚</a><br>
+    <a href="retroviri.shtml#nucleosides">Р¤РѕСЃС„Р°Р·РёРґ</a><br>
+    <a href="079-80.shtml">Р¤РѕСЃС„РѕРјРёС†РёРЅР° С‚СЂРѕРјРµС‚Р°РјРѕР»</a><br>
+    <a href="080-82.shtml">Р¤СѓР·РёРґРёРµРІР°СЏ РєРёСЃР»РѕС‚Р°</a><br>
+    <a href="063-64.shtml">Р¤СѓСЂР°Р·РёРґРёРЅ</a><br>
+    <a href="063-64.shtml">Р¤СѓСЂР°Р·РѕР»РёРґРѕРЅ</a><br>
   </TD>
 </TR>
 <TR>
-  <TD class="bc"><a name="18"></a><b>Х</b></TD>
+  <TD class="bc"><a name="18"></a><b>РҐ</b></TD>
 </TR>
 <TR>
   <TD>
-    <a href="proto.shtml#malaria">Хинидин</a><br>
-    <a href="proto.shtml#malaria">Хинин</a><br>
-    <a href="082-83.shtml">Хлорамфеникол</a><br>
-    <a href="proto.shtml#malaria">Хлорохин</a><br>
+    <a href="proto.shtml#malaria">РҐРёРЅРёРґРёРЅ</a><br>
+    <a href="proto.shtml#malaria">РҐРёРЅРёРЅ</a><br>
+    <a href="082-83.shtml">РҐР»РѕСЂР°РјС„РµРЅРёРєРѕР»</a><br>
+    <a href="proto.shtml#malaria">РҐР»РѕСЂРѕС…РёРЅ</a><br>
   </TD>
 </TR>
 <TR>
-  <TD class="bc"><a name="19"></a><b>Ц</b></TD>
+  <TD class="bc"><a name="19"></a><b>Р¦</b></TD>
 </TR>
 <TR>
   <TD>
-    <a href="023-29.shtml#cs1">Цефадроксил</a><br>
-    <a href="023-29.shtml#cs1">Цефазолин</a><br>
-    <a href="023-29.shtml#cs2">Цефаклор</a><br>
-    <a href="023-29.shtml#cs1">Цефалексин</a><br>
-    <a href="023-29.shtml#cs4">Цефепим</a><br>
-    <a href="023-29.shtml#cs3">Цефиксим</a><br>
-    <a href="023-29.shtml#cs3">Цефоперазон</a><br>
-    <a href="023-29.shtml#cs3">Цефоперазон/сульбактам</a><br>
-    <a href="023-29.shtml#cs3">Цефотаксим</a><br>
-    <a href="023-29.shtml#cs3">Цефтазидим</a><br>
-    <a href="023-29.shtml#cs3">Цефтибутен</a><br>
-    <a href="023-29.shtml#cs3">Цефтриаксон</a><br>
-    <a href="023-29.shtml#cs2">Цефуроксим</a><br>
-    <a href="023-29.shtml#cs2">Цефуроксим аксетил</a><br>
-    <a href="cytomeg.shtml">Цидофовир</a><br>
-    <a href="065-75.shtml#cycloserin">Циклосерин</a><br>
-    <a href="038-42.shtml">Ципрофлоксацин</a><br>
+    <a href="023-29.shtml#cs1">Р¦РµС„Р°РґСЂРѕРєСЃРёР»</a><br>
+    <a href="023-29.shtml#cs1">Р¦РµС„Р°Р·РѕР»РёРЅ</a><br>
+    <a href="023-29.shtml#cs2">Р¦РµС„Р°РєР»РѕСЂ</a><br>
+    <a href="023-29.shtml#cs1">Р¦РµС„Р°Р»РµРєСЃРёРЅ</a><br>
+    <a href="023-29.shtml#cs4">Р¦РµС„РµРїРёРј</a><br>
+    <a href="023-29.shtml#cs3">Р¦РµС„РёРєСЃРёРј</a><br>
+    <a href="023-29.shtml#cs3">Р¦РµС„РѕРїРµСЂР°Р·РѕРЅ</a><br>
+    <a href="023-29.shtml#cs3">Р¦РµС„РѕРїРµСЂР°Р·РѕРЅ/СЃСѓР»СЊР±Р°РєС‚Р°Рј</a><br>
+    <a href="023-29.shtml#cs3">Р¦РµС„РѕС‚Р°РєСЃРёРј</a><br>
+    <a href="023-29.shtml#cs3">Р¦РµС„С‚Р°Р·РёРґРёРј</a><br>
+    <a href="023-29.shtml#cs3">Р¦РµС„С‚РёР±СѓС‚РµРЅ</a><br>
+    <a href="023-29.shtml#cs3">Р¦РµС„С‚СЂРёР°РєСЃРѕРЅ</a><br>
+    <a href="023-29.shtml#cs2">Р¦РµС„СѓСЂРѕРєСЃРёРј</a><br>
+    <a href="023-29.shtml#cs2">Р¦РµС„СѓСЂРѕРєСЃРёРј Р°РєСЃРµС‚РёР»</a><br>
+    <a href="cytomeg.shtml">Р¦РёРґРѕС„РѕРІРёСЂ</a><br>
+    <a href="065-75.shtml#cycloserin">Р¦РёРєР»РѕСЃРµСЂРёРЅ</a><br>
+    <a href="038-42.shtml">Р¦РёРїСЂРѕС„Р»РѕРєСЃР°С†РёРЅ</a><br>
   </TD>
 </TR>
 <TR>
-  <TD class="bc"><a name="20"></a><b>Э</b></TD>
+  <TD class="bc"><a name="20"></a><b>Р­</b></TD>
 </TR>
 <TR>
   <TD>
-    <a href="fungi.shtml#azols">Эконазол</a><br>
-    <a href="proto.shtml#other">Эметин</a><br>
-    <a href="042-47.shtml">Эритромицин</a><br>
-    <a href="065-75.shtml#etambutol">Этамбутол</a><br>
-    <a href="065-75.shtml#etionamid">Этионамид</a><br>
-    <a href="proto.shtml#other">Этофамид</a><br>
+    <a href="fungi.shtml#azols">Р­РєРѕРЅР°Р·РѕР»</a><br>
+    <a href="proto.shtml#other">Р­РјРµС‚РёРЅ</a><br>
+    <a href="042-47.shtml">Р­СЂРёС‚СЂРѕРјРёС†РёРЅ</a><br>
+    <a href="065-75.shtml#etambutol">Р­С‚Р°РјР±СѓС‚РѕР»</a><br>
+    <a href="065-75.shtml#etionamid">Р­С‚РёРѕРЅР°РјРёРґ</a><br>
+    <a href="proto.shtml#other">Р­С‚РѕС„Р°РјРёРґ</a><br>
   </TD>
 </TR>
 </TABLE>
@@ -549,13 +549,13 @@ ONMOUSEOUT="this.className = 'men5';" style="width: 170; left: 720px; top: 153px
 
 <table width="100%" border="0" cellspacing="0" cellpadding="5">
 <tr><td height="20" bgcolor="#967BB0">&nbsp;</td></tr>
-<tr><td class="copy" height=30>&copy; 2000-2007 <a target="_blank" href="/copyright.php">НИИАХ СГМА</a></td></tr>
+<tr><td class="copy" height=30>&copy; 2000-2007 <a target="_blank" href="/copyright.php">РќРРРђРҐ РЎР“РњРђ</a></td></tr>
 </table>
       
 <center>
-<a href="/"><img src="/images/banners/arus.gif" width="120" height="60" alt="Антибиотик.ru" border="0"></a>
-<a href="/iacmac/"><img src="/images/banners/iacmac.gif" width="120" height="60" border="0" alt="Межрегиональная ассоциация по клинической микробиологии и антимикробной химиотерапии"></a>
-<a href="/cmac/"><img src="/images/banners/cmac.gif" width="120" height="60" border="0" alt="Журнал ''Клиническая микробиология и антимикробная химиотерапия''"></a>
+<a href="/"><img src="/images/banners/arus.gif" width="120" height="60" alt="РђРЅС‚РёР±РёРѕС‚РёРє.ru" border="0"></a>
+<a href="/iacmac/"><img src="/images/banners/iacmac.gif" width="120" height="60" border="0" alt="РњРµР¶СЂРµРіРёРѕРЅР°Р»СЊРЅР°СЏ Р°СЃСЃРѕС†РёР°С†РёСЏ РїРѕ РєР»РёРЅРёС‡РµСЃРєРѕР№ РјРёРєСЂРѕР±РёРѕР»РѕРіРёРё Рё Р°РЅС‚РёРјРёРєСЂРѕР±РЅРѕР№ С…РёРјРёРѕС‚РµСЂР°РїРёРё"></a>
+<a href="/cmac/"><img src="/images/banners/cmac.gif" width="120" height="60" border="0" alt="Р–СѓСЂРЅР°Р» ''РљР»РёРЅРёС‡РµСЃРєР°СЏ РјРёРєСЂРѕР±РёРѕР»РѕРіРёСЏ Рё Р°РЅС‚РёРјРёРєСЂРѕР±РЅР°СЏ С…РёРјРёРѕС‚РµСЂР°РїРёСЏ''"></a>
 <br>
 
 <!--counters-->
@@ -584,12 +584,12 @@ document.write('<a href="http://www.rax.ru/click" '+
 escape(document.referrer)+((typeof(screen)=='undefined')?'':
 ';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
 screen.colorDepth:screen.pixelDepth))+';'+Math.random()+
-'" alt="rax.ru: показано число посетителей за сегодн\я" '+
+'" alt="rax.ru: РїРѕРєР°Р·Р°РЅРѕ С‡РёСЃР»Рѕ РїРѕСЃРµС‚РёС‚РµР»РµР№ Р·Р° СЃРµРіРѕРґРЅ\СЏ" '+
 'border=0 width=88 height=15></a>')//--></script><!--/RAX-->
 <br>
 <!--Rambler 1x1--><a href="http://top100.rambler.ru/top100/"><img src="http://counter.rambler.ru/top100.cnt?335834" alt="Rambler's Top100" width="1" height="1" border="0"></a><!--/Rambler 1x1-->
 <!--/counters-->
-<div class="c8">Дата размещения: 10.09.2002</div>
+<div class="c8">Р”Р°С‚Р° СЂР°Р·РјРµС‰РµРЅРёСЏ: 10.09.2002</div>
 </center>
 
 </BODY>
