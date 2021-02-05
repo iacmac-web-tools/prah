@@ -36,13 +36,13 @@ LI {text-align:justify;}
 									</tr>
 								</table>
 							</td>
-							<td class=ttt height="13" align="right" valign="bottom" ><img src="images/book1.gif" width="197" height="15"></td>
+							
 						</tr>
 					</table>
 				</td>
 			</tr>
 			<tr>
-				<td height="132" valign="middle" width="100%">
+				<td height="132" valign="middle" width="100%" style="background: #6E2F87;">
 					<table border="0" cellspacing="0" cellpadding="0" height="133" width="100%">
 						<tr>
 							<td >
@@ -100,7 +100,7 @@ LI {text-align:justify;}
 									</tr>
 								</table>
 							</td>
-							<td valign="top" align="right" background="images/4.gif"><img src="images/book2.gif" width="197" height="132"></td>
+							
 						</tr>
 					</table>
 				</td>
@@ -120,29 +120,14 @@ LI {text-align:justify;}
 					<td height="10" width="100%">&nbsp;</td>
 				</tr>
 			</table>
-<!--Search-->
-<DIV  class=mm style="position: absolute;left: 433px; width: 500px; top: 2px; height: 30px">
-<TABLE  border="0" cellpadding="0" align = left cellspacing="0" ><TR><TD>
-<FORM method="GET" action="http://www.google.ru/search" target="_blank">
-<INPUT type="hidden" name="sitesearch" value="www.antibiotic.ru/ab/">
-<INPUT type="hidden" name="domains" value="www.antibiotic.ru/ab/">
-<INPUT type="hidden" name="hl" value="ru">
-<INPUT type="hidden" name="num" value="20">
-<INPUT type="hidden" name="newwindow" value="1">
-<INPUT type="hidden" name="ie" value="windows-1251">
-<TABLE border="0" cellpadding="0" cellspacing="0">
-<TR><TD style="vertical-align:middle;color:#FFFFFF">Поиск по сайту:</TD><TD><INPUT name="q" type="text" size="30"maxlength="150" title="Введите слова для поиска и нажмите Enter"><INPUT name="sa" type="submit" value="Искать"></TD></TR>
-</TABLE></FORM>
-</TD></TR>
-</TABLE></DIV>
-<!--/Search-->
+
 		
 
 
 
 
 <DIV  class=mm      style="width: 130px; left: 205px; top: 0px; height: 24px">
-<a href="index.shtml" class="text_an" >Содержание</a>
+<a href="index.html" class="text_an" >Содержание</a>
   </DIV> 
 
 
