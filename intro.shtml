@@ -228,45 +228,7 @@ ONMOUSEOUT="this.className = 'men5';" style="width: 170; left: 720px; top: 153px
 <tr><td class="copy" height=30>&copy; 2000-2007 <a target="_blank" href="/copyright.php">НИИАХ СГМА</a></td></tr>
 </table>
       
-<center>
-<a href="/"><img src="/images/banners/arus.gif" width="120" height="60" alt="Антибиотик.ru" border="0"></a>
-<a href="/iacmac/"><img src="/images/banners/iacmac.gif" width="120" height="60" border="0" alt="Межрегиональная ассоциация по клинической микробиологии и антимикробной химиотерапии"></a>
-<a href="/cmac/"><img src="/images/banners/cmac.gif" width="120" height="60" border="0" alt="Журнал ''Клиническая микробиология и антимикробная химиотерапия''"></a>
-<br>
 
-<!--counters-->
-<!--TopList--><a target=_top href="http://top.list.ru/jump?from=96637"><script language="JavaScript"><!--
-d=document;a='';a+=';r='+escape(d.referrer)
-js=10//--></script><script language="JavaScript1.1"><!--
-a+=';j='+navigator.javaEnabled()
-js=11//--></script><script language="JavaScript1.2"><!--
-s=screen;a+=';s='+s.width+'*'+s.height
-a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth)
-js=12//--></script><script language="JavaScript1.3"><!--
-js=13//--></script><script language="JavaScript"><!--
-d.write('<img src="http://top.list.ru/counter'+
-'?id=96637;t=58;js='+js+a+';rand='+Math.random()+
-'" alt="TopList" '+ 'border=0 height=31 width=88>')
-if(js>11)d.write('<'+'!-- ')//--></script><noscript><img
-src="http://top.list.ru/counter?js=na;id=96637;t=58"
-border=0 height=31 width=88
-alt="TopList"></noscript><script language="JavaScript"><!--
-if(js>11)d.write('--'+'>')//--></script></a><!--/TopList-->
-<!--Rambler--><a href="http://top100.rambler.ru/top100/" target="_blank"><img src="http://top100-images.rambler.ru/top100/banner-88x31-rambler-darkblue2.gif" alt="Rambler's Top100" width="88" height="31" border="0"></a><!--/Rambler-->
-<br>
-<!--RAX counter--><script language="JavaScript"><!--
-document.write('<a href="http://www.rax.ru/click" '+
-'target=_blank><img src="http://counter.yadro.ru/hit?t26.12;r'+
-escape(document.referrer)+((typeof(screen)=='undefined')?'':
-';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
-screen.colorDepth:screen.pixelDepth))+';'+Math.random()+
-'" alt="rax.ru: показано число посетителей за сегодн\я" '+
-'border=0 width=88 height=15></a>')//--></script><!--/RAX-->
-<br>
-<!--Rambler 1x1--><a href="http://top100.rambler.ru/top100/"><img src="http://counter.rambler.ru/top100.cnt?335834" alt="Rambler's Top100" width="1" height="1" border="0"></a><!--/Rambler 1x1-->
-<!--/counters-->
-<div class="c8">Дата размещения: 10.09.2002</div>
-</center>
 
 </BODY>
 </HTML>
